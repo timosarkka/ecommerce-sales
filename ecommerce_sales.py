@@ -1,4 +1,4 @@
-# Objective: Analyze an eCommerce dataset to practice data ingestion, cleaning, manipulation, 
+# Analyze an eCommerce dataset to practice data ingestion, cleaning, manipulation, 
 # and transformation skills using pandas.
 
 import pandas as pd
